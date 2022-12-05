@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Sensores Oviedo</name>
+<Placemark> <name>Sensor 1</name><Point><coordinates>-5.850451,43.361497,0.0</coordinates></Point></Placemark>
+<Placemark> <name>Sensor 2</name><Point><coordinates>-5.822619961249671, 43.36301039833775,0.0</coordinates></Point></Placemark>
+<Placemark> <name>Sensor 3</name><Point><coordinates>-5.837947291786979, 43.36520444346704,0.0</coordinates></Point></Placemark>
+</Document>
+</kml>
